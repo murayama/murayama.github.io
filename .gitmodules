@@ -1,0 +1,6 @@
+[submodule ".themes/octopress-bootstrap"]
+	path = .themes/octopress-bootstrap
+	url = git@github.com:barmstrong/octopress-bootstrap.git
+[submodule ".themes/foxslide"]
+	path = .themes/foxslide
+	url = git@github.com:sevenadrian/foxslide.git
